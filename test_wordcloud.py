@@ -1,4 +1,5 @@
 """
+v1.0 20240326
 编写一个从文件读取数据、分词、生成词云图片的程序
 1. 从resource.txt文件中读取数据
 2. 从https://raw.githubusercontent.com/goto456/stopwords/master/baidu_stopwords.txt读取停用词表
